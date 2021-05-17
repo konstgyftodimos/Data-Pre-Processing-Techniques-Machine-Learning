@@ -11,6 +11,7 @@ A number of techniques is applied to pre-process the given dataset:
 
 Correlation Map:
 
+![](images/fig1.png)
 
 Detection of Outliers:
 
