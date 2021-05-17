@@ -15,5 +15,9 @@ Correlation Map:
 
 Detection of Outliers:
 
+![](images/fig2.png)
+
 
 Removal of Outliers:
+
+![](images/fig3.png)
